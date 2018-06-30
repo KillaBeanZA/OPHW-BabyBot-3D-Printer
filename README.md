@@ -1,7 +1,7 @@
 # OPHW-BabyBot-3D-Printer
 Collection of info for the Core XY Open hardware  Baby-Bot printer
 
-//THe Baby-Bot Runs on a Gen 7 v1.4 Style board 
+THe Baby-Bot Runs on a Gen 7 v1.4 Style board
 //1284P Arduino Chip
 //CP2200 USB CHip
 //4x Stepper Driver Breakouts, A4988/DRV8825
